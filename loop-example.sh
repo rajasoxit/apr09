@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "New line added"
 for (( row = 1; row <= 9; row ++ ))
 do
 	if (( row <= 5 )); then
